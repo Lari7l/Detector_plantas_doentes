@@ -1,0 +1,7 @@
+{
+  "dados": "5e81054ef7b7632ed1b36f85ca8266a9",
+  "codigo": "90a3d30d2762d91a3b4c2438ec01c3a8",
+  "arquitetura": "mobilenet",
+  "epocas": 10,
+  "batch": 32
+}
